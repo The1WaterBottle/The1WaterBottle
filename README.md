@@ -29,12 +29,12 @@
 
 <h2> Current Projects <img align="left" alt="C++" width="24px" style="padding-right:10px;" src="https://img.icons8.com/?size=512&id=7w9vOwIpS6yE&format=png"/> </h2>
 
-<detail>
+<details>
    <summary><strong>The Enchated Realm</strong></summary>
-   This is my main project a game called 'The Enchanted Realm' This game was made using C++ and the raylib library (https://www.raylib.com/)
-   Features : 1-2 player (splitscreen/online)
-   game versiov : 0.0.1-230720-alpha raylib versiob : 4.0
-</detail>
+   This is my main project a game called 'The Enchanted Realm' <br> This game was made using C++ and the raylib library (https://www.raylib.com/) <br>
+   Features : 1-2 player (splitscreen/online) <br>
+   game versiov : 0.0.1-230720-alpha raylib versiob : 4.0 <br>
+</details>
 <img align="left" alt="The Enchated Realm" width="80px" style="padding-right:10px;" src="img/cover.png"/>
 <!---
 The1WaterBottle/The1WaterBottle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
