@@ -14,6 +14,8 @@
 <br>
 
 <h2> Tools <img align="left" alt="C++" width="24px" style="padding-right:10px;" src="https://img.icons8.com/?size=512&id=TcqTgo0rUuw3&format=png"/> </h2> 
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 
 <hr>
 
