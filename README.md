@@ -1,18 +1,12 @@
-- 👋 Hi, I’m @The1WaterBottle (Patrik)
-- 👀 I’m interested in WebDev, AI/ML and video game dev using C++ and OpenGL at the moment
+## 👋 Hi, I’m @The1WaterBottle (Patrik)
+- 👀 I’m interested in WebDev, AI/ML and video game dev using C++ and OpenGL <sub> (at the moment) </sub>
 - 🌱 I’m currently learning C++ and python
 - 📫 How to reach me E-Mail : WaterBottle.Github@gmail.com
 
-- If you have some advice for a junior dev than I'm happy to read it
-
-- Have a nice day and I hope your next app compiles successfully 😊.
-
-
-### Languages and Tools
+## Languages and Tools 
 
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<p></p>
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
