@@ -1,9 +1,9 @@
 ## 👋 Hi, I’m @The1WaterBottle (Patrik)
 - 👀 I’m interested in WebDev, AI/ML and video game dev using C++ and OpenGL <sub> (at the moment) </sub>
 - 🌱 I’m currently learning C++ and python
-- 📫 How to reach me E-Mail : WaterBottle.Github@gmail.com
 
 ## Languages and Tools 
+<img align="left" alt="C++" width="16px" style="padding-right:10px;" src="https://img.icons8.com/?size=512&id=TcqTgo0rUuw3&format=png"/>
 
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
