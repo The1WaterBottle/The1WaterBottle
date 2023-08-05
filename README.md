@@ -32,7 +32,11 @@
 <details>
    <summary><strong>The Enchated Realm</strong></summary>
    This is my main project a game called 'The Enchanted Realm' <br> This game was made using C++ and the raylib library (https://www.raylib.com/) <br>
-   Features : 1-2 player (splitscreen/online) <br>
+   <hr>
+   <h3> Features </h3>
+   1-2 player (splitscreen/online) <br>
+   <hr>
+   <h3> Info </h3>
    game versiov : 0.0.1-230720-alpha raylib versiob : 4.0 <br>
    <hr>
    <h3> Images (subject to change) </h3>
