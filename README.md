@@ -40,7 +40,7 @@
    <h4>System requirements : </h4>
    <ul>
       <li> <strong> CPU :</strong> Dual core @ 1.44 Gigahertz</li>
-      <li> <strong> :</strong>GPU OpenGL support (integrated grahics might not work)</li>
+      <li> <strong> GPU :</strong> OpenGL support (integrated grahics might not work)</li>
       <li> <strong>RAM :</strong> total 2GB system memory</li>
       <li> <strong>Storage :</strong> 32GB toal system storage</li>
    </ul>
@@ -49,6 +49,12 @@
    <hr>
    <h3> Images (subject to change) </h3>
    <img align="left" alt="The Enchated Realm" title="The Enchated Realm - cover photo" width="120px" style="padding-right:10px;" src="img/cover.png"/>
+   <hr>
+   <h3> 
+      <img align="left" alt="C++" width="26px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/10098/10098837.png"/>
+      Important
+      <img align="left" alt="C++" width="26px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/10098/10098837.png"/>
+   </h3>
 </details>
 
 <!---
