@@ -14,7 +14,8 @@
                 	width: 60%;
                 }
                 .card {
-	                background-image: url("img/cover.png");
+	                background-image: url("images/cover.png");
+			background-size: cover;
                 	position: relative;
                 	width: 350px;
                 	height: 475px;
