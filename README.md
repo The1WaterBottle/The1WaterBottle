@@ -27,7 +27,7 @@
 
 <hr>
 
-<h2> Current Projects <img align="left" alt="C++" width="24px" style="padding-right:10px;" src="https://img.icons8.com/?size=512&id=7w9vOwIpS6yE&format=png"/> </h2>
+<h2 style="text-decoration:none;"> Current Projects <img align="left" alt="C++" width="24px" style="padding-right:10px;" src="https://img.icons8.com/?size=512&id=7w9vOwIpS6yE&format=png"/> </h2>
 
 <details>
    <summary><strong>The Enchated Realm</strong></summary>
