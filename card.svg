@@ -1,0 +1,89 @@
+<svg fill="none" viewBox="0 0 350 475" width="350" height="475" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                .card-img{
+                	margin: 0;
+                	padding: 0;
+                	transform: translate(-17px, -25px);
+                }
+                .card-logo{
+                	position: absolute;
+                	top: 2%;
+                	left: 20%;
+                	width: 60%;
+                }
+                .card {
+	                background-image: url("img/cover.png");
+                	position: relative;
+                	width: 350px;
+                	height: 475px;
+                	color: #2e2d31;
+                	background: #131313;
+                	overflow: hidden;
+                	border-radius: 20px;
+                }
+                .temporary_text {
+                	font-weight: bold;
+                	font-size: 24px;
+                	padding: 6px 12px;
+                	color: #f8f8f8;
+                }
+                .card_title {
+                	font-weight: bold;
+                }
+                .card_content {
+                	position: absolute;
+                	left: 0;
+                	bottom: 0;
+                	  /* edit the width to fit card */
+                	width: 100%;
+                	padding: 10px;
+                	background: #f2f2f2;
+                	border-top-left-radius: 17px;
+                	  /* edit here to change the height of the content box */
+                	transform: translateY(120px);
+                	transition: transform .2s;
+                }
+                .card_content::before {
+                	position: absolute;
+                	top: -47px;
+                	right: -45px;
+                	width: 100px;
+                	height: 100px;
+                	transform: rotate(-175deg);
+                	border-radius: 50%;
+                	box-shadow: inset 48px 48px #f2f2f2;
+                }
+                .card_title {
+                	color: #131313;
+                	line-height: 15px;
+                }
+                .card_subtitle {
+                	display: block;
+                	font-size: 12px;
+                	margin-bottom: 10px;
+                }
+                .card_description {
+                	font-size: 14px;
+                }
+                .card:hover .card_content {
+                	transform: translateY(0);
+                }
+            </style>
+            <article class="card">
+                <img class="card-logo" src="img/logo.png" alt="">
+                <div class="card_content">
+                    <span class="card_title">About the game</span>
+                    <br>
+                    <p class="card_subtitle">The Enchanted Realm</p>
+                    <p class="card_description">
+                        Lorem ipsum dolor, sit amet expedita exercitationem recusandae aut dolor tempora
+                        aperiam itaque possimus at, cupiditate earum, quae repudiandae aspernatur? Labore minus soluta consequatur
+                        placeat.
+                    </p>
+                </div>
+            </article>
+        </div>
+    </foreignObject>
+</svg>
