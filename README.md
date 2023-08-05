@@ -13,9 +13,10 @@
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
 <br>
 
-<hr>
 <img align="left" alt="C++" width="16px" style="padding-right:10px;" src="https://img.icons8.com/?size=512&id=TcqTgo0rUuw3&format=png"/>
 <h2> Tools </h2> 
+
+<hr>
 
 <!---
 The1WaterBottle/The1WaterBottle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
