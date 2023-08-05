@@ -37,7 +37,8 @@
    1-2 player (splitscreen/online) <br>
    <hr>
    <h3> Info </h3>
-   game versiov : 0.0.1-230720-alpha raylib versiob : 4.0 <br>
+   game versiov : 0.0.1-230720-alpha <br> 
+   raylib version : 4.0 <br>
    <hr>
    <h3> Images (subject to change) </h3>
    <img align="left" alt="The Enchated Realm" width="120px" style="padding-right:10px;" src="img/cover.png"/>
