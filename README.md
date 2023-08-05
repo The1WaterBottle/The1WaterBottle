@@ -2,8 +2,8 @@
 - 👀 I’m interested in WebDev, AI/ML and video game dev using C++ and OpenGL <sub> (at the moment) </sub>
 - 🌱 I’m currently learning C++ and python
 
-<p align="left" style="padding-right:10px; display: inline-block;"> Languages </p> 
-<img align="left" alt="C++" width="24px" style="padding-right:10px;" src="https://img.icons8.com/?size=512&id=TcqTgo0rUuw3&format=png"/>
+<h2 align="left" style="padding-right:10px; display: inline-block;"> Languages <img align="left" alt="C++" width="24px" style="padding-right:10px;" src="https://img.icons8.com/?size=512&id=TcqTgo0rUuw3&format=png"/> </h2> 
+
 
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
@@ -13,8 +13,7 @@
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
 <br>
 
-<h2 align="left" style="padding-right:10px; display: inline-block;"> Tools </h2> 
-<img align="left" alt="C++" width="24px" style="padding-right:10px;" src="https://img.icons8.com/?size=512&id=TcqTgo0rUuw3&format=png"/>
+<h2 align="left" style="padding-right:10px; display: inline-block;"> Tools <img align="left" alt="C++" width="24px" style="padding-right:10px;" src="https://img.icons8.com/?size=512&id=TcqTgo0rUuw3&format=png"/> </h2> 
 
 <hr>
 
