@@ -41,7 +41,7 @@
    raylib version : 4.0 <br>
    <hr>
    <h3> Images (subject to change) </h3>
-   <img align="left" alt="The Enchated Realm" width="120px" style="padding-right:10px;" src="img/cover.png"/>
+   <img align="left" alt="The Enchated Realm" title="The Enchated Realm - cover photo" width="120px" style="padding-right:10px;" src="img/cover.png"/>
 </details>
 
 <!---
