@@ -29,22 +29,6 @@
 
 <h2> Current Projects <img align="left" alt="C++" width="24px" style="padding-right:10px;" src="https://img.icons8.com/?size=512&id=7w9vOwIpS6yE&format=png"/> </h2>
 
-<article class="card">
-    <div class="temporary_text">
-        <img class="card-img" width="110%" src="img/cover.png" alt="">
-        <img class="card-logo" src="img/logo.png" alt="">
-    </div>
-    <div class="card_content">
-        <span class="card_title">About the game</span>
-        <br>
-        <p class="card_subtitle">The Enchanted Realm</p>
-        <p class="card_description">
-            Lorem ipsum dolor, sit amet expedita exercitationem recusandae aut dolor tempora
-            aperiam itaque possimus at, cupiditate earum, quae repudiandae aspernatur? Labore minus soluta consequatur
-            placeat.
-        </p>
-    </div>
-</article>
 
 
 <!---
