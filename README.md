@@ -45,6 +45,7 @@
       <li> <strong> GPU :</strong> OpenGL support (integrated grahics might not work)</li>
       <li> <strong>RAM :</strong> total 2GB system memory</li>
       <li> <strong>Storage :</strong> 32GB toal system storage</li>
+      <li> <strong>OS :</strong> Currently only Windows 10/11 but I'm working on a linux version</li>
    </ul>
    game versiov : 0.0.1-230720-alpha <br> 
    raylib version : 4.0 <br>
