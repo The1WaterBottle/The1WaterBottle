@@ -27,7 +27,7 @@
 
 <hr>
 
-## Current Projects
+<h2> Current Projectsv <img align="left" alt="C++" width="24px" style="padding-right:10px;" src="https://img.icons8.com/?size=512&id=TcqTgo0rUuw3&format=png"/> </h2>
 
 
 <!---
