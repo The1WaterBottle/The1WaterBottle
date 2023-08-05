@@ -47,13 +47,11 @@
    game versiov : 0.0.1-230720-alpha <br> 
    raylib version : 4.0 <br>
    <hr>
-   <h3> Images (subject to change) </h3>
-   <img align="left" alt="The Enchated Realm" title="The Enchated Realm - cover photo" width="120px" style="padding-right:10px;" src="img/cover.png"/>
-   <br>
-   <hr>
    <h3> <img align="left" alt="C++" width="26px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/10098/10098837.png"/> Important </h3>
    The game is under constant development but do to my studies I don't always have time to progress. It will take me a lot of time to finish this project.
    <br> Thank you for understanding!
+   <h3> Images (subject to change) </h3>
+   <img align="left" alt="The Enchated Realm" title="The Enchated Realm - cover photo" width="120px" style="padding-right:10px;" src="img/cover.png"/>
 </details>
 
 <!---
