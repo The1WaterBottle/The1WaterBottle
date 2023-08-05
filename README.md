@@ -37,6 +37,13 @@
    1-2 player (splitscreen/online) <br>
    <hr>
    <h3> Info </h3>
+   <h4>System requirements : </h4>
+   <ul>
+      <li> <strong> CPU :</strong> Dual core @ 1.44 Gigahertz</li>
+      <li> <strong> :</strong>GPU OpenGL support (integrated grahics might not work)</li>
+      <li> <strong>RAM :</strong> total 2GB system memory</li>
+      <li> <strong>Storage :</strong> 32GB toal system storage</li>
+   </ul>
    game versiov : 0.0.1-230720-alpha <br> 
    raylib version : 4.0 <br>
    <hr>
