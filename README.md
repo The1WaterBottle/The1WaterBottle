@@ -34,6 +34,8 @@
    This is my main project a game called 'The Enchanted Realm' <br> This game was made using C++ and the raylib library (https://www.raylib.com/) <br>
    Features : 1-2 player (splitscreen/online) <br>
    game versiov : 0.0.1-230720-alpha raylib versiob : 4.0 <br>
+   <hr>
+   <h3> Images (subject to change) </h3>
    <img align="left" alt="The Enchated Realm" width="120px" style="padding-right:10px;" src="img/cover.png"/>
 </details>
 
