@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @The1WaterBottle (Patrik)
-- 👀 I’m interested in WebDev, AI/ML and video game dev using C++ and OpenGL <sub> (at the moment) </sub>
+- 👀 I’m interested in WebDev, AI/ML and video game dev using C++ </sub>
 - 🌱 I’m currently learning C++ and python
 
 ##
