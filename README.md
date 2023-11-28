@@ -2,7 +2,8 @@
 - 👀 I’m interested in WebDev, AI/ML and video game dev using C++ and OpenGL <sub> (at the moment) </sub>
 - 🌱 I’m currently learning C++ and python
 
-<h2> Languages <img align="left" alt="C++" width="24px" style="padding-right:10px;" src="https://img.icons8.com/?size=512&id=h8cNOTMqbgfd&format=png"/> </h2> 
+##
+<p> Languages <img align="left" alt="C++" width="24px" style="padding-right:10px;" src="https://img.icons8.com/?size=512&id=h8cNOTMqbgfd&format=png"/> </p> 
 
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
