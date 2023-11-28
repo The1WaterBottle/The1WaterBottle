@@ -59,8 +59,3 @@
    <img align="left" alt="The Enchated Realm" title="The Enchated Realm - cover photo" width="120px" style="padding-right:10px;" src="img/cover.png"/>
 </details>
 --->
-
-<!---
-The1WaterBottle/The1WaterBottle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
